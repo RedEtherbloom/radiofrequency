@@ -1,0 +1,13 @@
+{
+  "itemGroup.radiofrequency": "Example Mod Tab",
+  "block.radiofrequency.example_block": "Example Block",
+  "item.radiofrequency.example_item": "Example Item",
+
+  "radiofrequency.configuration.title": "Radio Frequency Configs",
+  "radiofrequency.configuration.section.radiofrequency.common.toml": "Radio Frequency Configs",
+  "radiofrequency.configuration.section.radiofrequency.common.toml.title": "Radio Frequency Configs",
+  "radiofrequency.configuration.items": "Item List",
+  "radiofrequency.configuration.logDirtBlock": "Log Dirt Block",
+  "radiofrequency.configuration.magicNumberIntroduction": "Magic Number Text",
+  "radiofrequency.configuration.magicNumber": "Magic Number"
+}
